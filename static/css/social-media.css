@@ -1,0 +1,14 @@
+.social-midia {
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 1rem;
+}
+
+.social-midia img{
+    height: 25px;
+    width: 25px;
+    opacity: 0.4;
+    padding: 20px 0 0 0;
+}

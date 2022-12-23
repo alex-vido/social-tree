@@ -1,0 +1,26 @@
+
+.links li{
+    transition: 1s all;
+    border: rgb(177, 175, 175);
+    border-style: dotted;
+    border-radius: 20px;
+    padding: 10px;
+    margin: 10px;    
+}
+
+.links li:hover {
+    cursor: pointer;
+    transform: scale(1.2);
+}
+
+.links a, links a:checked {
+    text-align: center;
+    width: 100%;
+    text-decoration: none;
+    color: rgb(177, 175, 175);
+
+}
+
+.links {
+    text-align: center;
+}

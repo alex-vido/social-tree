@@ -1,0 +1,16 @@
+.container, .card-tree, .profile {
+    color: rgb(177, 175, 175);
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 20px;
+}
+
+.container .card-tree .profile img {
+    width: 200px;
+    height: auto;
+    border-radius: 50%;
+    margin-bottom: 30px;
+    border: 3px solid;
+    border-color: rgb(177, 175, 175);
+}
